@@ -1,5 +1,11 @@
 ### Hi there, I'm Marcel
 
+### Spotify Playing 🎧
+
+<img src="https://novatorem.marcel-baltzer.vercel.app/api/spotify" alt="Marcel Spotify Playing" width="350" />
+
+### Connect with me:
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
