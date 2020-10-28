@@ -2,9 +2,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="PSN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />][psn]
 
 <br />
 
@@ -31,6 +32,16 @@
 
 </details>
 
+---
+
+<details>
+  <summary>:zap: PSN Profile</summary>
+
+  <img align="left" alt="PSN Profile" src="https://card.psnprofiles.com/2/M0r7y_1337.png" />
+
+</details>
+
 [twitter]: https://twitter.com/marcelbaltzer
 [linkedin]: https://linkedin.com/in/marcel-baltzer-4a369a93
 [xing]: https://www.xing.com/profile/Marcel_Baltzer/cv
+[psn]: https://my.playstation.com/profile/M0r7y_1337
