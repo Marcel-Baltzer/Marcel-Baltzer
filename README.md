@@ -28,16 +28,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Marcel's GitHub Stats" src="https://github-readme-stats.marcel-baltzer.vercel.app/api?username=Marcel-Baltzer" />
+  <img alt="Marcel's GitHub Stats" src="https://github-readme-stats.marcel-baltzer.vercel.app/api?username=Marcel-Baltzer&show_icons=true&hide_border=true" />
 
 </details>
-
----
 
 <details>
   <summary>:zap: PSN Profile</summary>
 
-  <img align="left" alt="PSN Profile" src="https://card.psnprofiles.com/2/M0r7y_1337.png" />
+  <img alt="PSN Profile" src="https://card.psnprofiles.com/2/M0r7y_1337.png" />
 
 </details>
 
