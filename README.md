@@ -46,6 +46,14 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img alt="Marcel's GitHub Stats" src="https://github-readme-stats.marcel-baltzer.vercel.app/api?username=Marcel-Baltzer&show_icons=true&hide_border=true" />
