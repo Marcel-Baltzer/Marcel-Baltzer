@@ -41,6 +41,11 @@
 ### 📕 Latest Blog Posts (in progress)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Community](https://www.patkua.com/blog/the-power-of-community/)
+- [Anyone Can Be a Leader](https://www.patkua.com/blog/anyone-can-be-a-leader/)
+- [Multipliers](https://www.patkua.com/blog/multipliers/)
+- [Book Recommendations By Engineering Leaders](https://www.patkua.com/blog/book-recommendations-by-engineering-leaders/)
+- [Your Most Precious Resource](https://www.patkua.com/blog/your-most-precious-resource/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
