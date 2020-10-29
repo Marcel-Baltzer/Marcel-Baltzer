@@ -38,6 +38,13 @@
 
 ---
 
+### 📕 Latest Blog Posts (in progress)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
