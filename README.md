@@ -1,4 +1,12 @@
-### Hi there, I'm Marcel
+### Hi there, I'm Marcel 👋
+
+## I'm a .Net Developer in Berlin!
+
+- 🔭 I'm currently working on my own blog 😱
+- 🌱 I’m currently learning to be a Tech Lead
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Contribute more to Open Source projects and share knowledge with the world
+- ⚡ I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
 
 ### Spotify Playing 🎧
 
@@ -48,3 +56,4 @@
 [linkedin]: https://linkedin.com/in/marcel-baltzer-4a369a93
 [xing]: https://www.xing.com/profile/Marcel_Baltzer/cv
 [psn]: https://my.playstation.com/profile/M0r7y_1337
+[pragmatic]: https://lesen.amazon.de/kp/embed?asin=B07VRS84D1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ukTMFbKSSCRD7
