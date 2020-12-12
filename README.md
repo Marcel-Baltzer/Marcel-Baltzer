@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts (in progress)
 
 <!-- BLOG-POST-LIST:START -->
+- [An End of Year Retrospective Template](https://www.patkua.com/blog/an-end-of-year-retrospective-template/)
 - [Double-Loop Learning](https://www.patkua.com/blog/double-loop-learning/)
 - [The Power of Community](https://www.patkua.com/blog/the-power-of-community/)
 - [Anyone Can Be a Leader](https://www.patkua.com/blog/anyone-can-be-a-leader/)
 - [Multipliers](https://www.patkua.com/blog/multipliers/)
-- [Book Recommendations By Engineering Leaders](https://www.patkua.com/blog/book-recommendations-by-engineering-leaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
