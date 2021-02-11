@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts (in progress)
 
 <!-- BLOG-POST-LIST:START -->
+- [Look Ahead](https://www.patkua.com/blog/look-ahead/)
 - [The Holiday Test](https://www.patkua.com/blog/the-holiday-test/)
 - [Software Engineering Leadership Communities](https://www.patkua.com/blog/software-engineering-leadership-communities/)
 - [An End of Year Retrospective Template](https://www.patkua.com/blog/an-end-of-year-retrospective-template/)
 - [Double-Loop Learning](https://www.patkua.com/blog/double-loop-learning/)
-- [The Power of Community](https://www.patkua.com/blog/the-power-of-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
