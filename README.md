@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/AdaptiveCode/AdaptiveCode/pull/7) in [AdaptiveCode/AdaptiveCode](https://github.com/AdaptiveCode/AdaptiveCode)
+1. ❗️ Opened issue [#1](https://github.com/Marcel-Baltzer/Blog-Comments/issues/1) in [Marcel-Baltzer/Blog-Comments](https://github.com/Marcel-Baltzer/Blog-Comments)
 <!--END_SECTION:activity-->
 
 </details>
