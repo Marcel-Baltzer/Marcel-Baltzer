@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Marcel-Baltzer/Blog-Comments/issues/1) in [Marcel-Baltzer/Blog-Comments](https://github.com/Marcel-Baltzer/Blog-Comments)
+1. ❗️ Opened issue [#1](https://github.com/Marcel-Baltzer/Blog/issues/1) in [Marcel-Baltzer/Blog](https://github.com/Marcel-Baltzer/Blog)
 <!--END_SECTION:activity-->
 
 </details>
