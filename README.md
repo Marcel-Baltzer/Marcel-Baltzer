@@ -2,7 +2,7 @@
 
 ## I'm a .Net Developer in Berlin!
 
-- 🔭 I'm currently working on my own blog 😱
+- 🔭 I just launched my own [blog](https://www.marcelbaltzer.de/) 😱
 - 🌱 I’m currently learning to be a Tech Lead
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects and share knowledge with the world
@@ -38,7 +38,7 @@
 
 ---
 
-### 📕 Latest Blog Posts (in progress)
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Polishing Product Management Skills](https://www.patkua.com/blog/polishing-product-management-skills/)
