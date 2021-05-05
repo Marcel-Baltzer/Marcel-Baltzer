@@ -41,11 +41,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polishing Product Management Skills](https://www.patkua.com/blog/polishing-product-management-skills/)
-- [Look Ahead](https://www.patkua.com/blog/look-ahead/)
-- [The Holiday Test](https://www.patkua.com/blog/the-holiday-test/)
-- [Software Engineering Leadership Communities](https://www.patkua.com/blog/software-engineering-leadership-communities/)
-- [An End of Year Retrospective Template](https://www.patkua.com/blog/an-end-of-year-retrospective-template/)
+- [Fake static property DateTime.Now() with a DateTime Provider](https://marcelbaltzer.de/2021/05/04/datetime-provider/)
+- [Share context between tests with fixtures](https://marcelbaltzer.de/2021/05/02/test-fixture-pattern/)
+- [Create Test Data cleanly with Fluent Builder Pattern](https://marcelbaltzer.de/2021/05/01/fluent-builder-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
