@@ -53,7 +53,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Marcel-Baltzer/Blog-Comments/issues/3) in [Marcel-Baltzer/Blog-Comments](https://github.com/Marcel-Baltzer/Blog-Comments)
+1. ❗️ Opened issue [#78](https://github.com/MaxMelcher/AzureDevOps.WikiPDFExport/issues/78) in [MaxMelcher/AzureDevOps.WikiPDFExport](https://github.com/MaxMelcher/AzureDevOps.WikiPDFExport)
 <!--END_SECTION:activity-->
 
 </details>
