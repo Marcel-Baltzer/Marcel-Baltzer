@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://novatorem.marcel-baltzer.vercel.app/api/spotify" alt="Marcel Spotify Playing" width="350" />
+<img src="https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify" alt="Marcel Spotify Playing" width="350" />
 
 ### Connect with me:
 
