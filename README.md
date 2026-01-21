@@ -8,9 +8,11 @@
 - :goal_net: Goals: Focus on AWS and build a small [public workspace](https://github.com/AWS-Sensei)
 - :zap: I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
 
-### Spotify Playing :headphones: 🎧
+### Spotify Playing :headphones:
 
-<img src="https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify" alt="Marcel Spotify Playing" width="350" />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marcelsps4)
+</div>
 
 ### Connect with me
 
