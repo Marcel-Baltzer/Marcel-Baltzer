@@ -1,11 +1,11 @@
-### Hi there, I'm Marcel 👋
+# Hi there, I'm Marcel 👋
 
-## I'm a .Net Developer in Berlin!
+## I'm a Tech Lead and AWS Developer in Berlin!
 
-- 🔭 I just launched my own [blog](https://www.marcelbaltzer.de/) 😱
-- 🌱 I’m currently learning to be a Tech Lead
+- 🔭 I just launched my own [blog](https://aws-sensei.cloud/) 😱
+- 🌱 I’m currently learning to more about AWS and have already the AWS Certified Developer – Associate certificate
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects and share knowledge with the world
+- 🥅 Goals: Fokus an AWS and build a small [public workspace](https://github.com/AWS-Sensei)
 - ⚡ I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
 
 ### Spotify Playing 🎧
@@ -16,7 +16,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PSN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />][psn]
 
 <br />
