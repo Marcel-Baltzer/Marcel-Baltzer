@@ -14,6 +14,9 @@
   [![Spotify](https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marcelsps4)
 </div>
 
+<img src="https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify?cache=1" alt="Marcel Spotify Playing" width="350" />
+
+
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][linkedin]
