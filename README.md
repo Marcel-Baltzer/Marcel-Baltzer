@@ -1,39 +1,28 @@
-# Hi there, I'm Marcel 👋
+# Hi there, I'm Marcel :wave: 👋
 
 ## I'm a Tech Lead and AWS Developer in Berlin!
 
-- 🔭 I just launched my own [blog](https://aws-sensei.cloud/) 😱
-- 🌱 I’m currently learning to more about AWS and have already the AWS Certified Developer – Associate certificate
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Fokus an AWS and build a small [public workspace](https://github.com/AWS-Sensei)
-- ⚡ I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
+- :fire: 🔭 I just launched my own [blog](https://aws-sensei.cloud/) :scream:
+- :seedling: 🌱 I'm currently learning more about AWS and already hold the AWS Certified Developer - Associate certificate
+- :busts_in_silhouette: 👯 I'm looking to collaborate with other content creators
+- :goal_net: Goals: 🥅 Focus on AWS and build a small [public workspace](https://github.com/AWS-Sensei)
+- :zap: ⚡ I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
 
-### Spotify Playing 🎧
+### Spotify Playing :headphones: 🎧
 
 <img src="https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify" alt="Marcel Spotify Playing" width="350" />
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="PSN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />][psn]
+- [LinkedIn][linkedin]
+- [Xing][xing]
+- [PSN][psn]
 
-<br />
+### Languages and Tools
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
+- AWS, Terraform
+- Java Spring Boot, .NET, SQL (PostgreSQL, MySQL)
+- Git, GitHub, IntelliJ, Visual Studio Code
 
 ---
 
@@ -71,7 +60,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/marcelbaltzer
 [linkedin]: https://linkedin.com/in/marcel-baltzer-4a369a93
 [xing]: https://www.xing.com/profile/Marcel_Baltzer/cv
 [psn]: https://my.playstation.com/profile/M0r7y_1337
