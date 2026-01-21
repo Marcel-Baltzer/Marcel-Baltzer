@@ -1,12 +1,12 @@
-# Hi there, I'm Marcel :wave: 👋
+# Hi there, I'm Marcel :wave:
 
 ## I'm a Tech Lead and AWS Developer in Berlin!
 
-- :fire: 🔭 I just launched my own [blog](https://aws-sensei.cloud/) :scream:
-- :seedling: 🌱 I'm currently learning more about AWS and already hold the AWS Certified Developer - Associate certificate
-- :busts_in_silhouette: 👯 I'm looking to collaborate with other content creators
-- :goal_net: Goals: 🥅 Focus on AWS and build a small [public workspace](https://github.com/AWS-Sensei)
-- :zap: ⚡ I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
+- :fire: I just launched my own [blog](https://aws-sensei.cloud/) :scream:
+- :seedling:  I'm currently learning more about AWS and already hold the AWS Certified Developer - Associate certificate
+- :busts_in_silhouette: I'm looking to collaborate with other content creators
+- :goal_net: Goals: Focus on AWS and build a small [public workspace](https://github.com/AWS-Sensei)
+- :zap: I hate the word "pragmatic". It does not mean that you can reduce the quality. [Please read!!!][pragmatic]
 
 ### Spotify Playing :headphones: 🎧
 
