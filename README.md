@@ -16,9 +16,9 @@
 
 ### Connect with me
 
-- [LinkedIn][linkedin]
-- [Xing][xing]
-- [PSN][psn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][linkedin]
+[![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)][xing]
+[![PSN](https://img.shields.io/badge/PSN-003087?logo=playstation&logoColor=white)][psn]
 
 ### Languages and Tools
 
