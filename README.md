@@ -1,6 +1,6 @@
 # Hi there, I'm Marcel :wave:
 
-## I'm a Tech Lead and AWS Developer in Berlin!
+## I'm a Tech Lead and AWS Developer in Berlin :bangbang:
 
 - :fire: I just launched my own [blog](https://aws-sensei.cloud/) :scream:
 - :seedling:  I'm currently learning more about AWS and already hold the AWS Certified Developer - Associate certificate
