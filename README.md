@@ -29,10 +29,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake Methods and Dependencies without Dependency Injection](https://marcelbaltzer.de/2021/05/06/overridable-members/)
-- [Fake static property DateTime.Now&lpar;&rpar; with a DateTime Provider](https://marcelbaltzer.de/2021/05/04/datetime-provider/)
-- [Share context between tests with fixtures](https://marcelbaltzer.de/2021/05/02/test-fixture-pattern/)
-- [Create Test Data cleanly with Fluent Builder Pattern](https://marcelbaltzer.de/2021/05/01/fluent-builder-pattern/)
+- [Fake Methods and Dependencies without Dependency Injection](https://aws-sensei.cloud/posts/2021-05-06-overridable-members/)
+- [Fake static property DateTime.Now&lpar;&rpar; with a DateTime Provider](https://aws-sensei.cloud/posts/2021-05-04-datetime-provider/)
+- [Share context between tests with fixtures](https://aws-sensei.cloud/posts/2021-05-02-test-fixture-pattern/)
+- [Create Test Data cleanly with Fluent Builder Pattern](https://aws-sensei.cloud/posts/2021-05-01-fluent-builder-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
