@@ -10,7 +10,7 @@
 
 ### Spotify Playing :headphones:
 
-[![Spotify](https://novatorem-marcel-baltzers-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/marcelsps4)
+[![Spotify](https://spotify.aws-sensei.cloud)](https://open.spotify.com/user/marcelsps4)
 
 ### Connect with me
 
