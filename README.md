@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Pipelines, One Platform — My CI/CD Architecture on AWS](https://aws-sensei.cloud/posts/2026-04-02-three-pipelines-one-platform/)
 - [From Vercel to AWS — Migrating My Blog to the Cloud](https://aws-sensei.cloud/posts/2026-03-26-aws-cloud-migration-blog/)
 - [Fake Methods and Dependencies without Dependency Injection](https://aws-sensei.cloud/posts/2021-05-06-overridable-members/)
 - [Fake static property DateTime.Now&lpar;&rpar; with a DateTime Provider](https://aws-sensei.cloud/posts/2021-05-04-datetime-provider/)
 - [Share context between tests with fixtures](https://aws-sensei.cloud/posts/2021-05-02-test-fixture-pattern/)
-- [Create Test Data cleanly with Fluent Builder Pattern](https://aws-sensei.cloud/posts/2021-05-01-fluent-builder-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
