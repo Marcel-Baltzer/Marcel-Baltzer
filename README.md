@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment Analysis in the Blog — with AWS Comprehend, Lambda and API Gateway](https://aws-sensei.cloud/posts/2026-04-27-sentiment-widget/)
+- [What Does This Blog Cost? — A Live Cost Dashboard with AWS Cost Explorer](https://aws-sensei.cloud/posts/2026-04-14-cost-dashboard/)
+- [Sentiment Analysis in the Blog — with AWS Comprehend, Lambda and API Gateway](https://aws-sensei.cloud/posts/2026-04-10-sentiment-widget/)
 - [Three Pipelines, One Platform — My CI/CD Architecture on AWS](https://aws-sensei.cloud/posts/2026-04-02-three-pipelines-one-platform/)
 - [From Vercel to AWS — Migrating My Blog to the Cloud](https://aws-sensei.cloud/posts/2026-03-26-aws-cloud-migration-blog/)
 - [Fake Methods and Dependencies without Dependency Injection](https://aws-sensei.cloud/posts/2021-05-06-overridable-members/)
-- [Fake static property DateTime.Now&lpar;&rpar; with a DateTime Provider](https://aws-sensei.cloud/posts/2021-05-04-datetime-provider/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
