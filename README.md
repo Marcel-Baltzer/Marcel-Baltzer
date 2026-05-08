@@ -30,10 +30,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS MCP Server with Claude Code](https://aws-sensei.cloud/posts/2026-05-08-aws-mcp-server-claude-code/)
+- [Voiced by Amazon Polly — Adding TTS to a Static Blog](https://aws-sensei.cloud/posts/2026-04-30-polly-tts/)
 - [Contact Form in the Blog — with AWS SES, Lambda and API Gateway](https://aws-sensei.cloud/posts/2026-04-27-contact-form/)
 - [Real-Time Comments in the Blog — with WebSocket API Gateway, Lambda and DynamoDB](https://aws-sensei.cloud/posts/2026-04-20-realtime-chat/)
 - [What Does This Blog Cost? — A Live Cost Dashboard with AWS Cost Explorer](https://aws-sensei.cloud/posts/2026-04-14-cost-dashboard/)
-- [Sentiment Analysis in the Blog — with AWS Comprehend, Lambda and API Gateway](https://aws-sensei.cloud/posts/2026-04-10-sentiment-widget/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
