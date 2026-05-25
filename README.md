@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarter S3 Triggers: Hash Files, SNS Fanout, and No More Redundant Calls](https://aws-sensei.cloud/posts/2026-05-22-smarter-post-triggers/)
 - [Auto-Generated OG Images with Hugo](https://aws-sensei.cloud/posts/2026-05-13-hugo-og-images/)
 - [AWS MCP Server with Claude Code](https://aws-sensei.cloud/posts/2026-05-08-aws-mcp-server-claude-code/)
 - [Voiced by Amazon Polly — Adding TTS to a Static Blog](https://aws-sensei.cloud/posts/2026-04-30-polly-tts/)
 - [Contact Form in the Blog — with AWS SES, Lambda and API Gateway](https://aws-sensei.cloud/posts/2026-04-27-contact-form/)
-- [Real-Time Comments in the Blog — with WebSocket API Gateway, Lambda and DynamoDB](https://aws-sensei.cloud/posts/2026-04-20-realtime-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
