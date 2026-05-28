@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From 900,000 to 3: Drastically Reducing S3 Costs with Incremental Caching](https://aws-sensei.cloud/posts/2026-05-28-analytics-cost-optimization/)
 - [Automated LinkedIn Posts with AWS Lambda and Bedrock — An Approval-First Approach](https://aws-sensei.cloud/posts/2026-05-26-automated-linkedin-posts-aws-bedrock/)
 - [Smarter S3 Triggers: Hash Files, SNS Fanout, and No More Redundant Calls](https://aws-sensei.cloud/posts/2026-05-22-smarter-post-triggers/)
 - [How I Replaced Google Analytics with 3 AWS Services](https://aws-sensei.cloud/posts/2026-05-18-privacy-analytics/)
 - [Auto-Generated OG Images with Hugo](https://aws-sensei.cloud/posts/2026-05-13-hugo-og-images/)
-- [AWS MCP Server with Claude Code](https://aws-sensei.cloud/posts/2026-05-08-aws-mcp-server-claude-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
