@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy smarter, sleep better — unit tests and change detection for Lambda APIs](https://aws-sensei.cloud/posts/2026-05-30-testing-selective-deployment/)
 - [OG Image 2.0: From Hugo&#39;s Image Pipeline to Satori](https://aws-sensei.cloud/posts/2026-05-29-og-images-v2/)
 - [From 900,000 to 3: Drastically Reducing S3 Costs with Incremental Caching](https://aws-sensei.cloud/posts/2026-05-28-analytics-cost-optimization/)
 - [Automated LinkedIn Posts with AWS Lambda and Bedrock — An Approval-First Approach](https://aws-sensei.cloud/posts/2026-05-26-automated-linkedin-posts-aws-bedrock/)
 - [Smarter S3 Triggers: Hash Files, SNS Fanout, and No More Redundant Calls](https://aws-sensei.cloud/posts/2026-05-22-smarter-post-triggers/)
-- [How I Replaced Google Analytics with 3 AWS Services](https://aws-sensei.cloud/posts/2026-05-18-privacy-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
